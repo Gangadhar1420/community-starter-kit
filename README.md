@@ -8,7 +8,8 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 FEATURES PLACEHOLDER
 
-* and FEATURES PLACEHOLDER
+Welcome new users with maintainer defined comments the first time your users
+
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
